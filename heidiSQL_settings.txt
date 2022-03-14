@@ -1,0 +1,278 @@
+Updatecheck<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2022-03-14 21:23:36
+SessionManager_ListWidth<|||>3<|||>295
+SessionManager_WindowWidth<|||>3<|||>965
+SessionManager_WindowLeft<|||>3<|||>87
+SessionManager_WindowTop<|||>3<|||>77
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,28
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,1
+MainWinLeft<|||>3<|||>-950
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,298
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>492,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>Prelive Elysium
+LastActiveSession<|||>1<|||>Prelive Elysium
+sqloutheight<|||>3<|||>160
+MainWinMaximized<|||>3<|||>0
+ColWidths_frmTableEditor.listColumns<|||>1<|||>44,100,154,90,60,65,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>434,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>200,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,420
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+querymemoheight<|||>3<|||>40
+MemoEditorWidth<|||>3<|||>351
+MemoEditorHeight<|||>3<|||>160
+FindDialogSearchHistory<|||>1<|||>naturabissa<{{{><}}}>catalogueSite<{{{><}}}>siteNameLike<{{{><}}}>widgetwait<{{{><}}}>help<{{{><}}}>'erborian.com'<{{{><}}}>create<{{{><}}}>New_Subsite_Site_Configurations<{{{><}}}>New_Site_Create_Catalogue<{{{><}}}>Erborian<{{{><}}}>bigdave<{{{><}}}>New_Subsite_Mailing_Service_Inputs<{{{><}}}>
+MainWinOnMonitor<|||>3<|||>0
+FindDialogReplaceHistory<|||>1<|||>naturabisse<{{{><}}}>'erborian.es'<{{{><}}}>
+dbtreewidth<|||>3<|||>163
+PromptSaveFileOnTabClose<|||>3<|||>0
+TableFilter<|||>1<|||>se<{{{><}}}>template<{{{><}}}>browser<{{{><}}}>config<{{{><}}}>product<{{{><}}}>catalogue<{{{><}}}>new<{{{><}}}>email<{{{><}}}>newsletter<{{{><}}}>tabernus<{{{><}}}>
+FileDialogEncoding_MainForm<|||>3<|||>0
+DatabaseFilter<|||>1<|||>elysium<{{{><}}}>
+ColWidths_frmRoutineEditor.listParameters<|||>1<|||>50,394,90,70
+ColsVisible_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColPositions_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColSort_frmRoutineEditor.listParameters<|||>1<|||>-1,0
+SessionManager_WindowHeight<|||>3<|||>697
+SQLFile0<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-12-03_14-47-46-119.sql
+SQLFile1<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-10-22_11-52-54-432.sql
+SQLFile2<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-10-22_11-03-11-933.sql
+SQLFile3<|||>1<|||>C:\Users\hani\OneDrive - The Hut Group\Documents\HeidiSQL\concession.sql
+SQLFile4<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-09-17_10-43-22-770.sql
+SQLFile5<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-09-16_15-25-11-042.sql
+SQLFile6<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-09-16_14-48-00-708.sql
+SQLFile7<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-09-16_14-44-31-611.sql
+SQLFile8<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-09-16_14-39-42-971.sql
+SQLFile9<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-09-16_14-16-39-129.sql
+SQLFile10<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-09-16_13-02-30-966.sql
+SQLFile11<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-07-14_12-47-33-580.sql
+SQLFile12<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-06-25_15-07-51-081.sql
+SQLFile13<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-06-25_12-37-00-043.sql
+SQLFile14<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-06-23_12-25-21-529.sql
+SQLFile15<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-06-10_06-43-15-554.sql
+SQLFile16<|||>1<|||>C:\Users\hani\OneDrive - The Hut Group\Documents\HeidiSQL\find widgets.sql
+SQLFile17<|||>1<|||>C:\Users\hani\AppData\Roaming\HeidiSQL\Backups\query-tab-2021-03-05_14-24-28-154.sql
+SQLFile18<|||>1<|||>C:\Users\hani\OneDrive - The Hut Group\Documents\HeidiSQL\updated file uploader address.sql
+SQLFile19<|||>1<|||>C:\Users\hani\OneDrive - The Hut Group\Documents\HeidiSQL\stuff.sql
+Servers\LIVE Elysium\SessionCreated<|||>1<|||>2021-02-02 09:27:13
+Servers\LIVE Elysium\Host<|||>1<|||>GFC-LI-ELYDB001.thehut.local
+Servers\LIVE Elysium\WindowsAuth<|||>3<|||>1
+Servers\LIVE Elysium\CleartextPluginEnabled<|||>3<|||>0
+Servers\LIVE Elysium\User<|||>1<|||>THEHUT\ian.han
+Servers\LIVE Elysium\Password<|||>1<|||>353D3A3D77797437767165723B3B254
+Servers\LIVE Elysium\LoginPrompt<|||>3<|||>0
+Servers\LIVE Elysium\Port<|||>1<|||>1433
+Servers\LIVE Elysium\NetType<|||>3<|||>4
+Servers\LIVE Elysium\Compressed<|||>3<|||>0
+Servers\LIVE Elysium\LocalTimeZone<|||>3<|||>0
+Servers\LIVE Elysium\QueryTimeout<|||>3<|||>30
+Servers\LIVE Elysium\KeepAlive<|||>3<|||>20
+Servers\LIVE Elysium\FullTableStatus<|||>3<|||>1
+Servers\LIVE Elysium\Databases<|||>1<|||>elysium
+Servers\LIVE Elysium\Library<|||>1<|||>MSOLEDBSQL
+Servers\LIVE Elysium\Comment<|||>1<|||>tried<{{{><}}}>thehut\ian.han<{{{><}}}>THEHUTGROUP\hani
+Servers\LIVE Elysium\StartupScriptFilename<|||>1<|||>
+Servers\LIVE Elysium\TreeBackground<|||>3<|||>536870911
+Servers\LIVE Elysium\SSHtunnelHost<|||>1<|||>
+Servers\LIVE Elysium\SSHtunnelHostPort<|||>3<|||>22
+Servers\LIVE Elysium\SSHtunnelUser<|||>1<|||>
+Servers\LIVE Elysium\SSHtunnelPassword<|||>1<|||>2
+Servers\LIVE Elysium\SSHtunnelTimeout<|||>3<|||>4
+Servers\LIVE Elysium\SSHtunnelPrivateKey<|||>1<|||>
+Servers\LIVE Elysium\SSHtunnelPort<|||>3<|||>3307
+Servers\LIVE Elysium\SSL_Active<|||>3<|||>0
+Servers\LIVE Elysium\SSL_Key<|||>1<|||>
+Servers\LIVE Elysium\SSL_Cert<|||>1<|||>
+Servers\LIVE Elysium\SSL_CA<|||>1<|||>
+Servers\LIVE Elysium\SSL_Cipher<|||>1<|||>
+Servers\LIVE Elysium\IgnoreDatabasePattern<|||>1<|||>
+Servers\LIVE Elysium\RefusedCount<|||>3<|||>39
+Servers\LIVE Elysium\ServerVersionFull<|||>1<|||>Microsoft SQL Server 2017 (RTM-CU26) (KB5005226) - 14.0.3411.3
+Servers\LIVE Elysium\ConnectCount<|||>3<|||>19
+Servers\LIVE Elysium\ServerVersion<|||>3<|||>1400
+Servers\LIVE Elysium\LastConnect<|||>1<|||>2021-12-03 14:48:03
+Servers\LIVE Elysium\lastUsedDB<|||>1<|||>elysium
+Servers\LIVE Elysium\QueryHistory\18<|||>1<|||>2021-12-03 14:48:31|elysium|63|<{{{><}}}><{{{><}}}>UPDATE Elysium.dbo.Site_Configuration SET ConfigValue='https://s1.thcdn.com/showcase-assets/componentConfiguration-03-12-2021-14%3A26%3A53.json', Last_Updated=CURRENT_TIMESTAMP where ConfigKey = 625<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\LIVE Elysium\QueryHistory\1<|||>1<|||>2021-12-03 14:49:21|elysium|62|SELECT TOP(20) * FROM  Elysium.dbo.Site_Configuration
+Servers\Prelive Elysium\SessionCreated<|||>1<|||>2021-02-02 07:21:57
+Servers\Prelive Elysium\Host<|||>1<|||>gfc-pl-elydb001.thehutgroup.local
+Servers\Prelive Elysium\WindowsAuth<|||>3<|||>1
+Servers\Prelive Elysium\CleartextPluginEnabled<|||>3<|||>0
+Servers\Prelive Elysium\User<|||>1<|||>
+Servers\Prelive Elysium\Password<|||>1<|||>8
+Servers\Prelive Elysium\LoginPrompt<|||>3<|||>0
+Servers\Prelive Elysium\Port<|||>1<|||>1433
+Servers\Prelive Elysium\NetType<|||>3<|||>4
+Servers\Prelive Elysium\Compressed<|||>3<|||>0
+Servers\Prelive Elysium\LocalTimeZone<|||>3<|||>0
+Servers\Prelive Elysium\QueryTimeout<|||>3<|||>30
+Servers\Prelive Elysium\KeepAlive<|||>3<|||>20
+Servers\Prelive Elysium\FullTableStatus<|||>3<|||>1
+Servers\Prelive Elysium\Databases<|||>1<|||>
+Servers\Prelive Elysium\Library<|||>1<|||>MSOLEDBSQL
+Servers\Prelive Elysium\Comment<|||>1<|||>
+Servers\Prelive Elysium\StartupScriptFilename<|||>1<|||>
+Servers\Prelive Elysium\TreeBackground<|||>3<|||>536870911
+Servers\Prelive Elysium\SSHtunnelHost<|||>1<|||>
+Servers\Prelive Elysium\SSHtunnelHostPort<|||>3<|||>22
+Servers\Prelive Elysium\SSHtunnelUser<|||>1<|||>
+Servers\Prelive Elysium\SSHtunnelPassword<|||>1<|||>4
+Servers\Prelive Elysium\SSHtunnelTimeout<|||>3<|||>4
+Servers\Prelive Elysium\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Prelive Elysium\SSHtunnelPort<|||>3<|||>3307
+Servers\Prelive Elysium\SSL_Active<|||>3<|||>0
+Servers\Prelive Elysium\SSL_Key<|||>1<|||>
+Servers\Prelive Elysium\SSL_Cert<|||>1<|||>
+Servers\Prelive Elysium\SSL_CA<|||>1<|||>
+Servers\Prelive Elysium\SSL_Cipher<|||>1<|||>
+Servers\Prelive Elysium\IgnoreDatabasePattern<|||>1<|||>
+Servers\Prelive Elysium\RefusedCount<|||>3<|||>102
+Servers\Prelive Elysium\ServerVersionFull<|||>1<|||>Microsoft SQL Server 2017 (RTM-CU24) (KB5001228) - 14.0.3391.2
+Servers\Prelive Elysium\ConnectCount<|||>3<|||>58
+Servers\Prelive Elysium\ServerVersion<|||>3<|||>1400
+Servers\Prelive Elysium\LastConnect<|||>1<|||>2022-02-08 13:56:58
+Servers\Prelive Elysium\lastUsedDB<|||>1<|||>Elysium_manager
+Servers\Prelive Elysium\QueryHistory\38<|||>1<|||>2022-01-21 15:52:53|Elysium_manager|63|SELECT TOP 1 * FROM elysium..customer
+Servers\Prelive Elysium\QueryHistory\1<|||>1<|||>2022-01-21 16:16:08|Elysium_manager|32|SELECT TOP(1) * FROM elysium..customer 
+Servers\Prelive Elysium\QueryHistory\2<|||>1<|||>2022-01-21 16:17:06|Elysium_manager|32|SELECT TOP(1) * FROM site
+Servers\Prelive Elysium\QueryHistory\5<|||>1<|||>2022-01-21 16:29:57|Elysium_manager|31|SELECT TOP(1) * FROM Site WHERE site_name LIKE '%garden%'
+Servers\Prelive Elysium\QueryHistory\3<|||>1<|||>2022-01-21 16:30:12|Elysium_manager|47|SELECT TOP(10) * FROM Site WHERE site_name LIKE '%garden%'
+Servers\Prelive Elysium\QueryHistory\6<|||>1<|||>2022-01-21 16:30:25|Elysium_manager|860|SELECT TOP(1) * FROM elysium..customer WITH (nolock) WHERE email LIKE '%ian.han%' AND Site = 153
+Servers\Prelive Elysium\QueryHistory\7<|||>1<|||>2022-01-24 10:01:58|Elysium_manager|31|SELECT TOP(20) * FROM  Elysium.dbo.Site_Configuration
+Servers\Prelive Elysium\QueryHistory\9<|||>1<|||>2022-01-27 12:05:46|Elysium_manager|641|SELECT * FROM elysium..customer WITH (nolock) WHERE email LIKE '%ian.han%' AND Site = 180
+Servers\Prelive Elysium\QueryHistory\10<|||>1<|||>2022-01-27 12:07:28|Elysium_manager|31|SELECT TOP(10) * FROM Site WHERE site_name LIKE '%perri%'
+Servers\Prelive Elysium\QueryHistory\4<|||>1<|||>2022-02-01 10:10:38|Elysium_manager|31|SELECT TOP(1) * FROM elysium..Site
+Servers\Prelive Elysium\QueryHistory\11<|||>1<|||>2022-02-01 10:11:08|Elysium_manager|31|SELECT TOP(1) * FROM elysium..Site WHERE site_name LIKE '%garden%'
+Servers\Prelive Elysium\QueryHistory\12<|||>1<|||>2022-02-01 10:14:21|Elysium_manager|4687|SELECT * FROM elysium..customer WITH (nolock) WHERE email LIKE '%ian.han%' AND Site = 153
+Servers\Prelive Elysium\QueryHistory\8<|||>1<|||>2022-02-03 15:24:18|Elysium_manager|32|SELECT TOP(1) * FROM elysium..Site WHERE site_name LIKE '%opti%'
+Servers\Prelive Elysium\QueryHistory\13<|||>1<|||>2022-02-03 15:24:35|Elysium_manager|219|SELECT * FROM elysium..customer WITH (nolock) WHERE email LIKE '%ian.han%' AND Site = 161
+Servers\Prelive Elysium\QueryHistory\14<|||>1<|||>2022-02-04 10:35:36|Elysium_manager|47|SELECT TOP(1) * FROM elysium..Site WHERE site_name LIKE '%lookf%'
+Servers\Prelive Elysium\QueryHistory\15<|||>1<|||>2022-02-04 10:36:14|Elysium_manager|32|SELECT TOP(1) * FROM elysium..Site WHERE site_name LIKE '%lookf%' AND site_name NOT LIKE '%zz%'
+Servers\Prelive Elysium\QueryHistory\16<|||>1<|||>2022-02-04 10:36:37|Elysium_manager|94|SELECT * FROM elysium..Site WHERE site_name LIKE '%lookfantastic%'<{{{><}}}>
+Servers\Prelive Elysium\QueryHistory\17<|||>1<|||>2022-02-04 10:36:46|Elysium_manager|47|SELECT * FROM elysium..Site WHERE site_name LIKE '%lf%'
+Servers\Prelive Elysium\QueryHistory\18<|||>1<|||>2022-02-04 10:49:35|Elysium_manager|31|SELECT * FROM elysium..Site WHERE site_name LIKE '%gillette%'
+Servers\Prelive Elysium\QueryHistory\20<|||>1<|||>2022-02-07 08:22:38|Elysium_manager|12625|SELECT * FROM elysium..customer WITH (nolock) WHERE email LIKE '%ian.han%' AND Site = 147
+Servers\Tabernus Live\SessionCreated<|||>1<|||>2021-03-12 14:07:49
+Servers\Tabernus Live\Host<|||>1<|||>GFC-LI-TABDB001.thehut.local
+Servers\Tabernus Live\WindowsAuth<|||>3<|||>1
+Servers\Tabernus Live\CleartextPluginEnabled<|||>3<|||>0
+Servers\Tabernus Live\User<|||>1<|||>sa
+Servers\Tabernus Live\Password<|||>1<|||>5
+Servers\Tabernus Live\LoginPrompt<|||>3<|||>0
+Servers\Tabernus Live\Port<|||>1<|||>0
+Servers\Tabernus Live\NetType<|||>3<|||>3
+Servers\Tabernus Live\Compressed<|||>3<|||>0
+Servers\Tabernus Live\LocalTimeZone<|||>3<|||>0
+Servers\Tabernus Live\QueryTimeout<|||>3<|||>30
+Servers\Tabernus Live\KeepAlive<|||>3<|||>20
+Servers\Tabernus Live\FullTableStatus<|||>3<|||>1
+Servers\Tabernus Live\Databases<|||>1<|||>
+Servers\Tabernus Live\Library<|||>1<|||>MSOLEDBSQL
+Servers\Tabernus Live\Comment<|||>1<|||>
+Servers\Tabernus Live\StartupScriptFilename<|||>1<|||>
+Servers\Tabernus Live\TreeBackground<|||>3<|||>536870911
+Servers\Tabernus Live\SSHtunnelHost<|||>1<|||>
+Servers\Tabernus Live\SSHtunnelHostPort<|||>3<|||>22
+Servers\Tabernus Live\SSHtunnelUser<|||>1<|||>
+Servers\Tabernus Live\SSHtunnelPassword<|||>1<|||>5
+Servers\Tabernus Live\SSHtunnelTimeout<|||>3<|||>4
+Servers\Tabernus Live\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Tabernus Live\SSHtunnelPort<|||>3<|||>3307
+Servers\Tabernus Live\SSL_Active<|||>3<|||>0
+Servers\Tabernus Live\SSL_Key<|||>1<|||>
+Servers\Tabernus Live\SSL_Cert<|||>1<|||>
+Servers\Tabernus Live\SSL_CA<|||>1<|||>
+Servers\Tabernus Live\SSL_Cipher<|||>1<|||>
+Servers\Tabernus Live\IgnoreDatabasePattern<|||>1<|||>
+Servers\Tabernus Live\ServerVersionFull<|||>1<|||>Microsoft SQL Server 2016 (SP2-CU17) (KB5001092) - 13.0.5888.11
+Servers\Tabernus Live\ConnectCount<|||>3<|||>2
+Servers\Tabernus Live\ServerVersion<|||>3<|||>1300
+Servers\Tabernus Live\LastConnect<|||>1<|||>2021-09-17 10:41:46
+Servers\Tabernus Live\QueryHistory\2<|||>1<|||>2021-09-16 14:48:25||78|DECLARE @siteID INT = 273, --<{{{><}}}>@subsiteCode VARCHAR(2) = 'en',<{{{><}}}>@catalogueSite VARCHAR(5) = 'UNEXP',<{{{><}}}><{{{><}}}>--update vars<{{{><}}}>@newUrl VARCHAR(256) = 'www.theunexpektedstore.com',<{{{><}}}>@newDomain VARCHAR(256) = 'theunexpektedstore.com',<{{{><}}}><{{{><}}}><{{{><}}}>--rollback vars<{{{><}}}>@oldUrl VARCHAR(256) = 'www.theunexpekted.com',<{{{><}}}>@oldDomain VARCHAR(256) = 'theunexpekted.com'<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>--Catalogue.dbo.Site update<{{{><}}}>UPDATE TOP(1) Catalogue.dbo.Site<{{{><}}}>SET Homepage_URL = 'http://' + @newUrl + '/',<{{{><}}}>Customer_Services_Email_Address = 'do_not_reply@' + @newDomain,<{{{><}}}>Help_URL = 'http://' + @newUrl + '/help-centre.list'<{{{><}}}>WHERE Site = @catalogueSite<{{{><}}}>
+Servers\Tabernus Live\QueryHistory\3<|||>1<|||>2021-09-16 14:48:35||94|SELECT TOP 1 * FROM catalogue..site WITH (nolock) WHERE site='UNEXP'
+Servers\Tabernus Live\QueryHistory\1<|||>1<|||>2021-09-17 10:44:53||94|DECLARE @siteID INT = 273, --<{{{><}}}>@subsiteCode VARCHAR(2) = 'en',<{{{><}}}>@catalogueSite VARCHAR(5) = 'UNEXP',<{{{><}}}><{{{><}}}>--update vars<{{{><}}}>@newUrl VARCHAR(256) = 'www.theunexpektedstore.com',<{{{><}}}>@newDomain VARCHAR(256) = 'theunexpektedstore.com',<{{{><}}}><{{{><}}}><{{{><}}}>--rollback vars<{{{><}}}>@oldUrl VARCHAR(256) = 'www.theunexpekted.com',<{{{><}}}>@oldDomain VARCHAR(256) = 'theunexpekted.com'<{{{><}}}><{{{><}}}><{{{><}}}>--Attachment_Upload_BE.dbo.Header_Origin update<{{{><}}}>UPDATE TOP(1) Attachment_Upload_BE.dbo.Header_Origin<{{{><}}}>SET Origin = 'https://' + @newUrl<{{{><}}}>WHERE Origin = 'https://' + @oldUrl<{{{><}}}><{{{><}}}>--Product_Export.dbo.Site update<{{{><}}}>UPDATE TOP(1) Product_Export.dbo.Site<{{{><}}}>SET Non_Secure_URL = 'http://' + @newUrl + '/'<{{{><}}}>WHERE Site = @siteID AND Site_Code = @catalogueSite
+Servers\tabernus pl\SessionCreated<|||>1<|||>2021-09-16 13:59:13
+Servers\tabernus pl\Host<|||>1<|||>GB2-ST-tabernus-001.st.thehutgroup.local
+Servers\tabernus pl\WindowsAuth<|||>3<|||>1
+Servers\tabernus pl\CleartextPluginEnabled<|||>3<|||>0
+Servers\tabernus pl\User<|||>1<|||>sa
+Servers\tabernus pl\Password<|||>1<|||>2
+Servers\tabernus pl\LoginPrompt<|||>3<|||>0
+Servers\tabernus pl\Port<|||>1<|||>0
+Servers\tabernus pl\NetType<|||>3<|||>4
+Servers\tabernus pl\Compressed<|||>3<|||>0
+Servers\tabernus pl\LocalTimeZone<|||>3<|||>0
+Servers\tabernus pl\QueryTimeout<|||>3<|||>30
+Servers\tabernus pl\KeepAlive<|||>3<|||>20
+Servers\tabernus pl\FullTableStatus<|||>3<|||>1
+Servers\tabernus pl\Databases<|||>1<|||>
+Servers\tabernus pl\Library<|||>1<|||>MSOLEDBSQL
+Servers\tabernus pl\Comment<|||>1<|||>
+Servers\tabernus pl\StartupScriptFilename<|||>1<|||>
+Servers\tabernus pl\TreeBackground<|||>3<|||>536870911
+Servers\tabernus pl\SSHtunnelHost<|||>1<|||>
+Servers\tabernus pl\SSHtunnelHostPort<|||>3<|||>22
+Servers\tabernus pl\SSHtunnelUser<|||>1<|||>
+Servers\tabernus pl\SSHtunnelPassword<|||>1<|||>7
+Servers\tabernus pl\SSHtunnelTimeout<|||>3<|||>4
+Servers\tabernus pl\SSHtunnelPrivateKey<|||>1<|||>
+Servers\tabernus pl\SSHtunnelPort<|||>3<|||>3307
+Servers\tabernus pl\SSL_Active<|||>3<|||>0
+Servers\tabernus pl\SSL_Key<|||>1<|||>
+Servers\tabernus pl\SSL_Cert<|||>1<|||>
+Servers\tabernus pl\SSL_CA<|||>1<|||>
+Servers\tabernus pl\SSL_Cipher<|||>1<|||>
+Servers\tabernus pl\IgnoreDatabasePattern<|||>1<|||>
+Servers\tabernus pl\RefusedCount<|||>3<|||>3
+Servers\tabernus pl\ServerVersionFull<|||>1<|||>Microsoft SQL Server 2017 (RTM-CU24) (KB5001228) - 14.0.3391.2
+Servers\tabernus pl\ConnectCount<|||>3<|||>7
+Servers\tabernus pl\ServerVersion<|||>3<|||>1400
+Servers\tabernus pl\LastConnect<|||>1<|||>2021-12-03 12:39:01
+Servers\tabernus pl\lastUsedDB<|||>1<|||>asset_manager_db
+Servers\tabernus pl\QueryHistory\3<|||>1<|||>2021-12-03 10:21:08|asset_manager_db|47|SELECT TOP(1) * FROM catalogue..site
+Servers\tabernus pl\QueryHistory\1<|||>1<|||>2021-12-03 10:21:35|asset_manager_db|62|SELECT TOP(1) * FROM catalogue..site WHERE site_name LIKE '%natura%'
+Servers\tabernus pl\QueryHistory\2<|||>1<|||>2021-12-03 10:21:47|asset_manager_db|47|SELECT TOP(1) * FROM catalogue..site WHERE site_name LIKE '%nat%'
+Servers\tabernus pl\QueryHistory\4<|||>1<|||>2021-12-03 10:22:09|asset_manager_db|219|SELECT * FROM catalogue..site
+Servers\tabernus pl\QueryHistory\5<|||>1<|||>2021-12-03 10:23:29|asset_manager_db|218|SELECT TOP(1) * FROM product_export..site
+Servers\tabernus pl\QueryHistory\8<|||>1<|||>2021-12-03 11:03:13|asset_manager_db|46|SELECT * FROM catalogue..site WHERE site ='NATBI'
+Servers\tabernus pl\QueryHistory\6<|||>1<|||>2021-12-03 12:39:12|asset_manager_db|47|SELECT TOP(1) * FROM product_export..site WHERE site = 298
+Servers\tabernus pl\QueryHistory\9<|||>1<|||>2021-12-03 12:40:41|asset_manager_db|375|UPDATE TOP(1)	product_export..site<{{{><}}}>SET site_code='naturabisse'<{{{><}}}>WHERE site=298<{{{><}}}>AND site_name='Natura Bisse'
+Servers\tabernus pl\QueryHistory\10<|||>1<|||>2021-12-03 12:40:45|asset_manager_db|47|SELECT TOP(1) * FROM product_export..site WHERE site = 298<{{{><}}}>
+Servers\tabernus pl\QueryHistory\11<|||>1<|||>2021-12-03 12:40:59|asset_manager_db|78|SELECT TOP(1) * FROM attachment_upload_be..header_origin 
+Servers\tabernus pl\QueryHistory\7<|||>1<|||>2021-12-03 12:41:11|asset_manager_db|141|SELECT TOP(1) * FROM attachment_upload_be..header_origin WHERE id=298
+Servers\tabernus pl\QueryHistory\12<|||>1<|||>2021-12-03 12:41:36|asset_manager_db|62|SELECT TOP(1) * FROM attachment_upload_be..header_origin WHERE origin LIKE '%natura%'
